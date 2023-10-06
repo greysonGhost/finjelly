@@ -1,0 +1,3 @@
+.cardIndicators, .playedIndicator.indicator, .countIndicator.indicator { 
+  display: none;
+}
