@@ -1,0 +1,36 @@
+stole from someone else idk
+
+@import url('https://cdn.jsdelivr.net/gh/CTalvio/Ultrachromic/smallercast.css');
+
+.cardIndicators, .playedIndicator.indicator, .countIndicator.indicator, .mediaSourceIndicator { 
+  display: none;
+}
+
+.material-icons, .listItemImageButton-icon, .play_arrow, .cardText {
+  color: #cfc5ee;
+}
+
+.pageTitle, .sectionTitle {
+  color: #525e84;
+}
+
+.listItemImageButton-icon {
+  background: none;
+}
+
+.cardText:hover {
+  color: #525e84;
+}
+
+.listItemImage {
+  height: 126px;
+  width: 224px;
+}
+
+.starIcon {
+  color: #f2b01e;
+}
+
+.ratingbutton-icon-withrating {
+  color: red;
+}
